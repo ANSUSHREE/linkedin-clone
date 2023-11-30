@@ -64,7 +64,7 @@ Redesigned Linked-In web application using **`React`** , **`Firebase`** , **`Mat
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/phanison898/linked-in-clone.git
+   git clone https://github.com/ANSUSHREE/linkedin-clone.git
    ```
 2. Navigate to the cloned directory
    ```bash
